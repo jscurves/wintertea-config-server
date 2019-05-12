@@ -34,3 +34,5 @@ pagehelper:
 logging:
   level:
     com.huawei.apimarket.services.dao : debug
+
+message: what happend this myseesasdf
